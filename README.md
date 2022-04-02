@@ -1,6 +1,6 @@
 # TheFarm-Nodejs
 
-#Installation
+#INSTALATION
 
 Clone and run npm install to install the dependencies.
 
